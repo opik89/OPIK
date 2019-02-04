@@ -252,20 +252,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:0, group-title="MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
 #EXTINF:0, group-title="MUSIC",ONE
 http://rtmp.one.by:1300
-
-#EXTINF:0, group-title="MUSIC",Music Channel
-http://stream.1music.hu/stream/1music.m3u8
-
-#EXTINF:0, group-title="MUSIC",NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-
-#EXTINF:0, group-title="MUSIC",Hit Music Channel
-http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:0, group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -273,8 +261,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0, group-title="SPORT",ASTRO SPORT
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTINF:0, group-title="SPORT",ESPN
-http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0, group-title="SPORT",SKY SPORT ARENA
+http://linux-app.tv:6204/Hejazi/Hejazi/9059
 
 #EXTINF:0, group-title="SPORT",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
