@@ -57,7 +57,7 @@ http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29669?token=GkQJUB
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:0, group-title="KIDS", DISNEY JUNIOR
+#EXTINF:0, group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:0, group-title="KIDS",FOODIE
@@ -96,7 +96,7 @@ http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29625?token=GkQJUB
 #EXTINF:0, group-title="MOVIE",FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:0, group-title="MOVIE", FOX MOVIES PREMIUM
+#EXTINF:0, group-title="MOVIE",FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",FOX MOVIES COMEDY
@@ -150,7 +150,7 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0, group-title="MOVIE",THRILL
 http://biz2.xbin.us:888/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:0, group-title="MOVIE",  CINEMA WORLD
+#EXTINF:0, group-title="MOVIE",CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",KIX (Asia)
@@ -254,15 +254,6 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:0, group-title="MUSIC",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:0, group-title="NEWS",ALJAZEERA
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
-
-#EXTINF:0, group-title="NEWS",Aljazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-
-#EXTINF:0, group-title="NEWS",DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
 
 #EXTINF:0, group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
