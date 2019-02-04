@@ -48,13 +48,6 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:0, group-title="RELIGION",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
-
-#EXTINF:0, group-title="KIDS",ANIMAX ID
-http://biz2.xbin.us:888/dr9445/h/h18/01.m3u8
-
-#EXTINF:0, group-title="KIDS",ANIMAX MY
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29667?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-
 #EXTINF:0, group-title="KIDS",ANIPLUS ID
 http://biz2.xbin.us:888/dr9445/h/h02/01.m3u8
 
@@ -92,9 +85,6 @@ http://biz2.xbin.us:888/uq2663/h/h09/01.m3u8
 http://45.126.83.51/uq2663/h/h09/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",DIVA ID
-http://biz2.xbin.us:888/uq2663/h/h11/index2.m3u8
-
-#EXTINF:0, group-title="MOVIE",DIVA ID
 http://210.210.155.35/session/d30b697c-050a-11e9-bf3d-b82a72d63267/dr9445/h/h11/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",FOX MOVIES PREMIUM HD MY
@@ -117,9 +107,6 @@ http://103.242.13.90:5555/udp/239.4.1.72:10000
 
 #EXTINF:0, group-title="MOVIE",FOX LIFE
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
-
-#EXTINF:0, group-title="MOVIE",FOX MOVIES
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
 #EXTINF:0, group-title="MOVIE",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
@@ -163,12 +150,6 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0, group-title="MOVIE",THRILL
 http://biz2.xbin.us:888/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:0, group-title="MOVIE",THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:0, group-title="MOVIE", CINEMA WORLD
-http://local2.bloggue.work/uq2663/h/h04/01.m3u8
-
 #EXTINF:0, group-title="MOVIE",  CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 
@@ -187,59 +168,14 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0, group-title="MOVIE",Star Chinese Movies [ HD ]
 http://60.250.69.26:8080/live/startmovie89.m3u8
 
-#EXTINF:0, group-title="MOVIE","USA",Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-
 #EXTINF:0, group-title="MOVIE",ENTERTAINMENT ID
 http://210.210.155.35/session/fc8d851c-0598-11e9-90c8-c81f66f89318/dr9445/h/h10/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",TVN MOVIE
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29589?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:0, group-title="MOVIE",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:0, group-title="MOVIE",Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:0, group-title="MOVIE",Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:0, group-title="MOVIE",Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:0, group-title="MOVIE", MOVIES HOLLYWOOD 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:0, group-title="MOVIE", Movies 2
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-
-#EXTINF:0, group-title="MOVIE", Movies 3
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-
-#EXTINF:0, group-title="MOVIE", Movies 4
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-
-#EXTINF:0, group-title="MOVIE", Movies 5
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
-
 #EXTINF:0, group-title="MOVIE",SONY ONE
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:0, group-title="MOVIE",SONY SETMAX
-http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29672?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:0, group-title="MOVIE",HR=E
-http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29782?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:0, group-title="MOVIE",M HD
-http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29744?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:0, group-title="MOVIE",WWE HD
-http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29587?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:0, group-title="MOVIE",Sony Channel
-http://45.126.83.51/uq2663/h/h06/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",SONY MOVIE
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
@@ -255,15 +191,6 @@ http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29596?token=GkQJUB
 
 #EXTINF:0, group-title="MOVIE",KPLUS
 http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
-
-#EXTINF:0, group-title="MOVIE",K-Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:0, group-title="INDOTV",THE INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-
-#EXTINF:0, group-title="MOVIE",JGo
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:0, group-title="MOVIE",MY CINEMA ID
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -286,46 +213,46 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, group-title="DISCOVERY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:0, group-title="DISCOVERY",Animal Planet HD
+#EXTINF:0, group-title="DISCOVERY",ANIMAL PELANET HD 
 http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8
 
 #EXTINF:0, group-title="DISCOVERY",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0, group-title="Music",MTV
+#EXTINF:0, group-title="MUSIC",MTV
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29611?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:0, group-title="Music",B4U MUSIC
+#EXTINF:0, group-title="MUSIC",B4U MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w150564584.m3u8
 
-#EXTINF:0, group-title="Music",HIT TV
+#EXTINF:0, group-title="MUSIC",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
-#EXTINF:0, group-title="Music",M2O TV
+#EXTINF:0, group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0, group-title="Music",MUSIC CHOICE
+#EXTINF:0, group-title="MUSIC",MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0, group-title="Music",MUSIC TOP
+#EXTINF:0, group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:0, group-title="Music",BOX HITS
+#EXTINF:0, group-title="MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0, group-title="Music",CALIFORNIA MUSIC CHANNEL
+#EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
-#EXTINF:0, group-title="Music",ONE
+#EXTINF:0, group-title="MUSIC",ONE
 http://rtmp.one.by:1300
 
-#EXTINF:0, group-title="Music",Music Channel
+#EXTINF:0, group-title="MUSIC",Music Channel
 http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:0, group-title="Music",NRJ Hits
+#EXTINF:0, group-title="MUSIC",NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
-#EXTINF:0, group-title="Music",Hit Music Channel
+#EXTINF:0, group-title="MUSIC",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:0, group-title="NEWS",ALJAZEERA
@@ -339,9 +266,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10
 
 #EXTINF:0, group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:0, group-title="SPORT",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 #EXTINF:0, group-title="SPORT",ASTRO SPORT
 http://103.242.13.90:5555/udp/239.4.1.148:10000
@@ -376,23 +300,11 @@ http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:0, group-title="LIFESTYLE",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:0, group-title="LIFESTYLE",FASHION TV MIDNITE
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV MIDNIGHT" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="VARIETY",FASHION TV MIDNIGHT HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
 #EXTINF:0, group-title="LIFESTYLE",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0, group-title="LIFESTYLE",TLC
 http://80.80.160.168/live/2/live.m3u8
-
-#EXTINF:0, group-title="LIFESTYLE",TLC
-http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29594?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:0, group-title="LIFESTYLE",Travel Channel
-http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:0, group-title="LIFESTYLE",TRAVEL CHANNEL
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29593?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
