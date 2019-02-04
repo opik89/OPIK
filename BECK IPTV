@@ -48,6 +48,9 @@ http://202.80.222.130/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=00
 #EXTINF:0, group-title="INDONESIA",CNN INDONESIA
 http://210.210.155.35/session/c0f1c15c-f3e2-11e8-bd11-86e98ac99cd8/uq2663/h/h234/01.m3u8
 
+#EXTINF:0, group-title="INDONESIA",DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
 #EXTINF:0, group-title="RELIGION",MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
@@ -71,6 +74,8 @@ http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3
 
 #EXTINF:0, group-title="KIDS",DAVINCI
 http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:0, group-title="KIDS",DUCK TV
+rtp://@239.1.2.63:8352
 
 #EXTINF:0, group-title="MOVIE",AXN
 http://45.126.83.51/uq2663/h/h09/index.m3u8
@@ -125,6 +130,9 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
 #EXTINF:0, group-title="SPORT",FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:0, group-title="SPORT",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 
 #EXTINF:0, group-title="SPORT",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
