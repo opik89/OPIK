@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0, group-title="INDONESIA",METRO TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:0, group-title="INDONESIA",NET TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
