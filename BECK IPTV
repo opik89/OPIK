@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0, group-title="INDONESIA",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
