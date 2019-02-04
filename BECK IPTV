@@ -51,6 +51,18 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:0, group-title="KIDS",ANIPLUS ID
 http://biz2.xbin.us:888/dr9445/h/h02/01.m3u8
 
+#EXTINF:0, group-title="KIDS",NICKELODEON
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/487.ts
+
+#EXTINF:0, group-title="KIDS",BOOMERANG
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/24.ts
+
+#EXTINF:0, group-title="KIDS",BABY TV
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/1305.ts
+
+#EXTINF:0, group-title="KIDS",TELETOON HD
+http://mona.dyndns.org:25461/live/RafalRaphe/NsSNXNT5fL/29.ts
+
 #EXTINF:0, group-title="KIDS",ANIPLUS MY
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29669?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 
@@ -159,7 +171,7 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:0, group-title="MOVIE",HITS ID
 http://biz2.xbin.us:888/uq2663/h/h37/01.m3u8
 
-#EXTINF:0, group-title="MOVIE", HITS
+#EXTINF:0, group-title="MOVIE",HITS
 http://45.126.83.51/uq2663/h/h37/01.m3u8
 
 #EXTINF:0, group-title="MOVIE",CELESTIAL MOVIES
